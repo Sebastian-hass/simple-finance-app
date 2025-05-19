@@ -16,7 +16,7 @@ Una aplicación en Streamlit para visualizar y categorizar tus gastos fácilment
 
 ## 🌎 Demo en línea
 
-👉 [Prueba la app aquí](https://<tu-link-en-streamlit>)
+👉 [Prueba la app aquí](https://simple-finance-app-hc6syfp5bvtukaczeztxdi.streamlit.app/)
 
 ---
 
