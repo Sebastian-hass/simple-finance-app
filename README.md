@@ -1,3 +1,5 @@
+<img width="1200" height="900" alt="finance_app" src="https://github.com/user-attachments/assets/e19d039b-7566-4be2-9d46-6016774c3687" />
+
 # 📈 Simple Finance Dashboard
 
 Una aplicación en Streamlit para visualizar y categorizar tus gastos fácilmente.
